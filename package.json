@@ -30,5 +30,12 @@
     "url-sync"
   ],
   "author": "Denish Puthawala",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamdenish/url-sync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iamdenish/url-sync/issues"
+  },
   "license": "ISC"
 }
