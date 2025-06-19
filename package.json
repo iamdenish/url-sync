@@ -1,0 +1,34 @@
+{
+  "name": "url-sync",
+  "version": "1.0.0",
+  "description": "Easily bind filter and sorter state to URL query parameters.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "url",
+    "query-params",
+    "query-strings",
+    "filters",
+    "sorters",
+    "query-parser",
+    "url-based",
+    "url-utils",
+    "react",
+    "express",
+    "nextjs",
+    "typescript",
+    "frontend",
+    "backend",
+    "universal",
+    "filter-state",
+    "sort-state",
+    "url-sync"
+  ],
+  "author": "Denish Puthawala",
+  "license": "ISC"
+}
