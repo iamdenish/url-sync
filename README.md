@@ -90,5 +90,6 @@ const newUrl = URLSyncNavigate({
 ````
 
 
+
 ## 🏷 License
 MIT © Denish Puthawala
